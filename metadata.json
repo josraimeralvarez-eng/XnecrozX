@@ -1,0 +1,7 @@
+{
+  "name": "Calculadora Cambiaria",
+  "description": "Calculadora de divisas venezolanas con Tasa BCV Oficial, Tasa de Intervención (+0.5%), Tasa Binance (Compra/Venta) y cálculo de brecha cambiaria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
